@@ -1,5 +1,6 @@
-:projectKey: optaweb-employee-rostering
+:projectKey: optaweb-employee-rostering versión para asignación de faenas mineras
 
+*El proyecto base con que se crea este frok ya no esta en mantenimiento, esta fork tiene como objetivo ser un MVP para validar el uso de asignación de competencias en la mineria *
 *This project is no longer maintained.*
 Visit https://github.com/kiegroup/optaplanner-quickstarts/tree/stable/use-cases/employee-scheduling[OptaPlanner Employee Rostering Quickstart] to see how to integrate https://www.optaplanner.org/[OptaPlanner] in your application.
 

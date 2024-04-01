@@ -10,10 +10,10 @@ const Header: React.FC<{ onNavToggle: () => void} > = ({ onNavToggle }) => {
   return (
     <PageHeader
       logo={(
-        <Brand src="/assets/images/optaPlannerLogoDarkBackground200px.png" alt="OptaPlanner Logo" />
+        <Brand src="/assets/images/logo.png" alt="Logo de circularhr" />
       )}
       logoProps={{
-        href: 'https://www.optaplanner.org',
+        href: 'https://www.circularhr.cl',
         target: '_blank',
         rel: 'noopener noreferrer',
       }}

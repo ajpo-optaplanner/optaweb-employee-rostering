@@ -18,7 +18,7 @@ const bgImages: BackgroundImageSrcMap = {
 };
 
 const Background: React.FC = () => (
-  <BackgroundImage src={bgImages} />
+  <BackgroundImage src="" />
 );
 
 export default Background;

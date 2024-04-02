@@ -1,16 +1,12 @@
----
-serverSideError: Server Side Error
+serverSideError: Error del Servidor
 ServerSideException:
-  entityNotFound: 'The object you requested was not found: {{0}}'
-  generic: It appears the developers made a mistake somewhere. Please contact them.
-  illegalArgument: 'The parameters you passed in were not valid: {{0}}'
-  nullPointer: It appears the developers made a mistake somewhere. Please contact
-    them.
-  rollback: The object you tried to delete is still referenced from other entities.
-    Update/delete all references to this object before deleting it.
-  unknown: 'An exception occurred: {{0}}'
-  entityConstraintViolation: 'The {{entityClass}} object you submitted was invalid. The following constraints
-    were violated:
+  entityNotFound: 'El objeto que solicitaste no se encontró: {{0}}'
+  generic: Parece que los desarrolladores cometieron un error en algún lugar. Por favor, contáctalos.
+  illegalArgument: 'Los parámetros que proporcionaste no eran válidos: {{0}}'
+  nullPointer: Parece que los desarrolladores cometieron un error en algún lugar. Por favor, contáctalos.
+  rollback: El objeto que intentaste eliminar aún está referenciado por otras entidades. Actualiza/elimina todas las referencias a este objeto antes de eliminarlo.
+  unknown: 'Ocurrió una excepción: {{0}}'
+  entityConstraintViolation: 'El objeto {{entityClass}} que enviaste era inválido. Se violaron las siguientes restricciones:
     
     {{violations}}
     '

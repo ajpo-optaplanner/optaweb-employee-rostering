@@ -1,7 +1,6 @@
----
-editShiftTemplate: Edit Shift Template
-createShiftTemplate: Create Shift Template
-startDayOffset: Start Day Offset
-startTime: Start Time
-endDayOffset: End Day Offset
-endTime: End Time
+editShiftTemplate: Editar Plantilla de Turno
+createShiftTemplate: Crear Plantilla de Turno
+startDayOffset: Día de Inicio
+startTime: Hora de Inicio
+endDayOffset: Día de Finalización
+endTime: Hora de Finalización

@@ -1,6 +1,6 @@
-provisionShifts: Provision Shifts
-fromDate: From Date
-toDate: To Date
-startingFromRotationOffset: Starting From Rotation Offset
-forSpots: For Spots
-selectSpots: Select Spots...
+provisionShifts: Provisionar Turnos
+fromDate: Desde la Fecha
+toDate: Hasta la Fecha
+startingFromRotationOffset: Comenzando desde el Desplazamiento de Rotación
+forSpots: Para Puestos
+selectSpots: Seleccionar Puestos...

@@ -1,8 +1,8 @@
 ---
 resetApplication: Resetear Aplicación
-confirmResetTitle: Reset the Application?
+confirmResetTitle: ¿Resetear la Aplicación?
 cannotDeleteCurrentTenant:
-  Cannot delete this tenant as it is the tenant currently being viewed. Please change to
-  a different tenant if you wish to delete this one.
+  No se puede eliminar este tenant ya que es el tenant que se está visualizando actualmente. 
+  Por favor, cambie a un tenant diferente si desea eliminar este.
 confirmResetBody:
-  Any data in the application will not be able to be recovered after the reset. Continue?
+  Cualquier dato en la aplicación no podrá ser recuperado después del reseteo. ¿Desea continuar?

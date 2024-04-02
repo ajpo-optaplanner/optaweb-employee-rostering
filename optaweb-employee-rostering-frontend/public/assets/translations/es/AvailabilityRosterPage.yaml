@@ -1,9 +1,7 @@
----
 createAvailability: Crear disponibilidad
 noEmployees:
   <0>No hay colaboradores asignados</0>
   <1>
-    The current tenant have no Employees. You need at least one Employee to see the
-    Availability Roster. You can add an Employee in the "Employees" page.
+    El tenant actual no tiene empleados. Necesitas al menos un empleado para ver el horario de disponibilidad. Puedes agregar un empleado en la página de "Empleados".
   </1>
-  <2>Go to the Employees page</2>
+  <2>Ir a la página de Empleados</2>

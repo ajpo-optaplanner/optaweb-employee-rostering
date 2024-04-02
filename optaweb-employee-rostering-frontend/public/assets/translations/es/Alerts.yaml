@@ -1,185 +1,175 @@
----
 addContract:
-  title: Successfully added Contract
-  message: The Contract "{{name}}" was successfully added.
+  title: Contrato añadido exitosamente
+  message: El Contrato "{{name}}" se añadió exitosamente.
 
 removeContract:
-  title: Successfully deleted Contract
-  message: The Contract "{{name}}" was successfully deleted.
+  title: Contrato eliminado exitosamente
+  message: El Contrato "{{name}}" se eliminó exitosamente.
 
 removeContractError:
-  title: Error deleting Contract
-  message: The Contract "{{name}}" could not be deleted.
+  title: Error al eliminar el Contrato
+  message: El Contrato "{{name}}" no se pudo eliminar.
 
 updateContract:
-  title: Successfully updated Contract
-  message: The Contract with id "{{id}}" was successfully updated.
+  title: Contrato actualizado exitosamente
+  message: El Contrato con ID "{{id}}" se actualizó exitosamente.
 
 addEmployee:
-  title: Successfully added Employee
-  message: The Employee "{{name}}" was successfully added.
+  title: Empleado añadido exitosamente
+  message: El Empleado "{{name}}" se añadió exitosamente.
 
 removeEmployee:
-  title: Successfully deleted Employee
-  message: The Employee "{{name}}" was successfully deleted.
+  title: Empleado eliminado exitosamente
+  message: El Empleado "{{name}}" se eliminó exitosamente.
 
 removeEmployeeError:
-  title: Error deleting Employee
-  message: The Employee "{{name}}" could not be deleted.
+  title: Error al eliminar el Empleado
+  message: El Empleado "{{name}}" no se pudo eliminar.
 
 updateEmployee:
-  title: Successfully updated Employee
-  message: The Employee with id "{{id}}" was successfully updated.
+  title: Empleado actualizado exitosamente
+  message: El Empleado con ID "{{id}}" se actualizó exitosamente.
 
 addShift:
-  title: Successfully added Shift
-  message: A new Shift starting at {{startDateTime}} and ending at {{endDateTime}}
-    was successfully added.
+  title: Turno añadido exitosamente
+  message: Un nuevo Turno que comienza en {{startDateTime}} y termina en {{endDateTime}} se añadió exitosamente.
 
 removeShift:
-  title: Successfully deleted Shift
-  message: The Shift with id {{id}} starting at {{startDateTime}} and ending at
-    {{endDateTime}} was successfully deleted.
+  title: Turno eliminado exitosamente
+  message: El Turno con ID {{id}} que comienza en {{startDateTime}} y termina en {{endDateTime}} se eliminó exitosamente.
 
 removeShiftError:
-  title: Error deleting Shift
-  message: The Shift with id {{id}} starting at {{startDateTime}} and ending at
-    {{endDateTime}} could not be deleted.
+  title: Error al eliminar el Turno
+  message: El Turno con ID {{id}} que comienza en {{startDateTime}} y termina en {{endDateTime}} no se pudo eliminar.
 
 updateShift:
-  title: Successfully updated Shift
-  message: The Shift with id "{{id}}" was successfully updated.
+  title: Turno actualizado exitosamente
+  message: El Turno con ID "{{id}}" se actualizó exitosamente.
 
 addShiftTemplate:
-  title: Successfully added Shift Template
-  message: A new Shift Template was successfully added with id "{{id}}".
+  title: Plantilla de Turno añadida exitosamente
+  message: Una nueva Plantilla de Turno se añadió exitosamente con ID "{{id}}".
 
 removeShiftTemplate:
-  title: Successfully deleted Shift Template
-  message: The Shift Template with id "{{id}}" was successfully deleted.
+  title: Plantilla de Turno eliminada exitosamente
+  message: La Plantilla de Turno con ID "{{id}}" se eliminó exitosamente.
 
 removeShiftTemplateError:
-  title: Error deleting Shift Template
-  message: The Shift Template with id "{{id}}" could not be deleted.
+  title: Error al eliminar la Plantilla de Turno
+  message: La Plantilla de Turno con ID "{{id}}" no se pudo eliminar.
 
 updateShiftTemplate:
-  title: Successfully updated Shift Template
-  message: The Shift Template with id "{{id}}" was successfully updated.
+  title: Plantilla de Turno actualizada exitosamente
+  message: La Plantilla de Turno con ID "{{id}}" se actualizó exitosamente.
 
 addAvailability:
-  title: Successfully added Availability
-  message: A new Availability starting at {{startDateTime}} and ending at {{endDateTime}}
-    for employee {{employeeName}} was successfully added.
+  title: Disponibilidad añadida exitosamente
+  message: Una nueva Disponibilidad que comienza en {{startDateTime}} y termina en {{endDateTime}} para el empleado {{employeeName}} se añadió exitosamente.
 
 removeAvailability:
-  title: Successfully deleted Availability
-  message: The Availability with id {{id}} starting at {{startDateTime}} and ending
-    at {{endDateTime}} for employee {{employeeName}} was successfully deleted.
+  title: Disponibilidad eliminada exitosamente
+  message: La Disponibilidad con ID {{id}} que comienza en {{startDateTime}} y termina en {{endDateTime}} para el empleado {{employeeName}} se eliminó exitosamente.
 
 removeAvailabilityError:
-  title: Error deleting Availability
-  message: The Availability with id {{id}} starting at {{startDateTime}} and ending
-    at {{endDateTime}} for employee {{employeeName}} could not be deleted.
+  title: Error al eliminar la Disponibilidad
+  message: La Disponibilidad con ID {{id}} que comienza en {{startDateTime}} y termina en {{endDateTime}} para el empleado {{employeeName}} no se pudo eliminar.
 
 updateAvailability:
-  title: Successfully updated Availability
-  message: The Availability with id {{id}} was successfully updated.
+  title: Disponibilidad actualizada exitosamente
+  message: La Disponibilidad con ID {{id}} se actualizó exitosamente.
 
 addSkill:
-  title: Successfully added Skill
-  message: The Skill "{{name}}" was successfully added.
+  title: Habilidad añadida exitosamente
+  message: La Habilidad "{{name}}" se añadió exitosamente.
 
 removeSkill:
-  title: Successfully deleted Skill
-  message: The Skill "{{name}}" was successfully deleted.
+  title: Habilidad eliminada exitosamente
+  message: La Habilidad "{{name}}" se eliminó exitosamente.
 
 removeSkillError:
-  title: Error deleting Skill
-  message: The Skill "{{name}}" could not be deleted.
+  title: Error al eliminar la Habilidad
+  message: La Habilidad "{{name}}" no se pudo eliminar.
 
 updateSkill:
-  title: Successfully updated Skill
-  message: The Skill with id "{{id}}" was successfully updated.
+  title: Habilidad actualizada exitosamente
+  message: La Habilidad con ID "{{id}}" se actualizó exitosamente.
 
 addSpot:
-  title: Successfully added Spot
-  message: The Spot "{{name}}" was successfully added.
+  title: Puesto añadido exitosamente
+  message: El Puesto "{{name}}" se añadió exitosamente.
 
 removeSpot:
-  title: Successfully deleted Spot
-  message: The Spot "{{name}}" was successfully deleted.
+  title: Puesto eliminado exitosamente
+  message: El Puesto "{{name}}" se eliminó exitosamente.
 
 removeSpotError:
-  title: Error deleting Spot
-  message: The Spot "{{name}}" could not be deleted.
+  title: Error al eliminar el Puesto
+  message: El Puesto "{{name}}" no se pudo eliminar.
 
 updateSpot:
-  title: Successfully updated Spot
-  message: The Spot with id "{{id}}" was successfully updated.
+  title: Puesto actualizado exitosamente
+  message: El Puesto con ID "{{id}}" se actualizó exitosamente.
 
 addTenant:
-  title: Successfully added Tenant
-  message: The Tenant "{{name}}" was successfully added.
+  title: Inquilino añadido exitosamente
+  message: El Inquilino "{{name}}" se añadió exitosamente.
 
 removeTenant:
-  title: Successfully removed Tenant
-  message: The Tenant "{{name}}" was successfully deleted.
+  title: Inquilino eliminado exitosamente
+  message: El Inquilino "{{name}}" se eliminó exitosamente.
 
 removeTenantError:
-  title: Error removing Tenant
-  message: The Tenant "{{name}}" could not be deleted.
+  title: Error al eliminar el Inquilino
+  message: El Inquilino "{{name}}" no se pudo eliminar.
 
 startSolvingRoster:
-  title: Started Solving Roster
-  message: Started Solving Roster at {{startSolvingTime}}
+  title: Iniciando Resolución de Horario
+  message: Iniciando Resolución de Horario en {{startSolvingTime}}
 
 finishSolvingRoster:
-  title: Finished Solving Roster
-  message: Finished Solving Roster at {{finishSolvingTime}}
+  title: Finalizando Resolución de Horario
+  message: Finalizando Resolución de Horario en {{finishSolvingTime}}
 
 publish:
-  title: Published Roster
-  message: Published from {{from}} to {{to}}.
+  title: Horario Publicado
+  message: Publicado desde {{from}} hasta {{to}}.
 
 commitChanges:
-  title: Committed Changes
-  message: Committed changes to published shifts.
+  title: Cambios Completados
+  message: Cambios comprometidos a los turnos publicados.
 
 shiftRosterRefresh:
-  title: Info
-  message: The Shift Roster was refreshed.
+  title: Información
+  message: El Horario de Turnos fue actualizado.
 
 availabilityRosterRefresh:
-  title: Info
-  message: The Availability Roster was refreshed.
+  title: Información
+  message: El Horario de Disponibilidad fue actualizado.
 
 resetApplicationSuccessful:
-  title: Info
-  message: The Application was reset successfully.
+  title: Información
+  message: La Aplicación fue reiniciada exitosamente.
 
 editShiftsInShiftRoster:
-  title: Edit Shifts in the Shift Roster!
-  message:
-    You should edit shifts in the shift roster;
-    the action you tried to perform would change the start and end time of the shift,
-    instead of assigning the employee to another shift, which is probably not what you want.
+  title: ¡Edita Turnos en el Horario de Turnos!
+  message: Deberías editar turnos en el horario de turnos; la acción que intentaste realizar cambiaría la hora de inicio y fin del turno, en lugar de asignar al empleado a otro turno, que probablemente no es lo que deseas.
 
 provision:
-  title: Sucessfully Provisioned Shifts
-  message: Shifts were successfully provisioned for the date range {{from}} to {{to}}.
+  title: Turnos Provisionados Exitosamente
+  message: Los turnos fueron provisionados exitosamente para el rango de fechas {{from}} a {{to}}.
 
 generic:
-  title: Exception
+  title: Excepción
   message: "{{message}}"
 
 badFileType:
-  title: Unsupported File Type
-  message: "Only the following file types are supported: {{fileTypes}}"
+  title: Tipo de Archivo No Soportado
+  message: "Solo se admiten los siguientes tipos de archivos: {{fileTypes}}"
 
 importSuccessful:
-  title: Data Imported Successfully
-  message: Data was imported sucessfully.
+  title: Importación de Datos Exitosa
+  message: Los datos se importaron exitosamente.
 
 exception:
-  title: Server Exception
-  message: "<0>See Stack Trace.</0>"
+  title: Excepción del Servidor
+  message: "<0>Ver Traceback.</0>"

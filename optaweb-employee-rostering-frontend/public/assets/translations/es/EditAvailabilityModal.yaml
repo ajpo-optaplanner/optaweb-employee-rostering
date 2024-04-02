@@ -1,6 +1,5 @@
----
-createAvailability: Create Availability
-editAvailability: Edit Availability
-availabilityStart: Availability Start
-availabilityEnd: Availability End
-type: Type
+createAvailability: Crear Disponibilidad
+editAvailability: Editar Disponibilidad
+availabilityStart: Inicio de Disponibilidad
+availabilityEnd: Fin de Disponibilidad
+type: Tipo

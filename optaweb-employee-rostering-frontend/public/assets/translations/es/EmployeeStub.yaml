@@ -1,10 +1,9 @@
----
-noShift: No Shift
-shiftWithNoEmployee: Shift with no Employee
-allStubMustHaveAnEmployee: All Stubs must have an Employee
-stubEmployeeNotUnique: Multiple stubs have employee {{employee}}
-editEmployeeStubList: Edit Employee Stub List
-selectAnEmployee: Select an Employee...
-addEmployee: Add Employee
-editEmployeeStubList: Edit Employee Stub List
-employeeStub: Employee Stub
+noShift: Sin Turno
+shiftWithNoEmployee: Turno sin Empleado
+allStubMustHaveAnEmployee: Todos los Stub deben tener un Empleado
+stubEmployeeNotUnique: Varios stubs tienen al empleado {{employee}}
+editEmployeeStubList: Editar Lista de Stub de Empleados
+selectAnEmployee: Selecciona un Empleado...
+addEmployee: Agregar Empleado
+editEmployeeStubList: Editar Lista de Stub de Empleados
+employeeStub: Stub de Empleado

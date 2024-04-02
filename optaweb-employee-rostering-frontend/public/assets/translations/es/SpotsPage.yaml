@@ -1,6 +1,5 @@
----
-requiredSkillSet: Habilidad
+requiredSkillSet: Habilidad requerida
 selectRequiredSkills: Debe seleccionar una habilidad
 
-spotEmptyNameError: Spot cannot have an empty name
-spotNameAlreadyTakenError: El nombre ({{name}}) ya fue tomado por otro lugar
+spotEmptyNameError: Un lugar no puede tener un nombre vacío
+spotNameAlreadyTakenError: El nombre ({{name}}) ya está siendo utilizado por otro lugar

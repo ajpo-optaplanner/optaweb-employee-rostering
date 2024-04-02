@@ -1,3 +1,2 @@
----
-skillEmptyNameError: Skill cannot have an empty name
-skillNameAlreadyTakenError: Name ({{name}}) is already taken by another skill
+skillEmptyNameError: Una habilidad no puede tener un nombre vacío
+skillNameAlreadyTakenError: El nombre ({{name}}) ya está siendo utilizado por otra habilidad

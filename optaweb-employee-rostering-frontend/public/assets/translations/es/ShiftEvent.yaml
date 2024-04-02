@@ -1,34 +1,25 @@
----
-indictments: Indictments
+indictments: Acusaciones
 
-missingRequiredSkills: The Employee "{{employee}}" does not have the following skills
-  which are required for the Spot "{{spot}}"
+missingRequiredSkills: El Empleado "{{employee}}" no tiene las siguientes habilidades que son requeridas para el Puesto "{{spot}}"
 
-exceededContractMaximumMinutes: The Employee "{{employee}}" have exceeded their maximum
-  {{durationly}} minutes. They have worked {{minutesWorked}} this {{duration}}; they
-  are allowed to work at most {{maxMinutesAllowed}} per {{duration}}.
+exceededContractMaximumMinutes: El Empleado "{{employee}}" ha excedido su máximo de {{durationly}} minutos. Ha trabajado {{minutesWorked}} en este {{duration}}; se le permite trabajar como máximo {{maxMinutesAllowed}} por {{duration}}.
 
-unavailableEmployee: The Employee "{{employee}}" is unavailable from {{from}} to {{to}}.
+unavailableEmployee: El Empleado "{{employee}}" no está disponible desde {{from}} hasta {{to}}.
 
-conflictingShifts: 'The Employee "{{employee}}" is assigned to a conflicting shift:
-  {{spot}}, {{from}} - {{to}}.'
+conflictingShifts: 'El Empleado "{{employee}}" está asignado a un turno conflictivo: {{spot}}, {{from}} - {{to}}.'
 
-noBreaks: 'The Employee "{{employee}}" has three shifts in a row.'
+noBreaks: 'El Empleado "{{employee}}" tiene tres turnos seguidos.'
 
-employeeDoesNotMatchRotationEmployee: The Shift's Employee "{{employee}}" does not
-  match the Shift's Rotation Employee "{{rotationEmployee}}".
+employeeDoesNotMatchRotationEmployee: El Empleado del Turno "{{employee}}" no coincide con el Empleado de Rotación del Turno "{{rotationEmployee}}".
 
-publishedShiftReassigned: The Shift's is published and its Employee change from
-  "{{originalEmployee}}" to "{{employee}}".
+publishedShiftReassigned: El Turno está publicado y su Empleado cambió de "{{originalEmployee}}" a "{{employee}}".
 
-unassignedShift: The Shift is unassigned.
+unassignedShift: El Turno no está asignado.
 
-undesiredShiftForEmployee: The Employee "{{employee}}" does not want to work from
-  {{from}} to {{to}}.
+undesiredShiftForEmployee: El Empleado "{{employee}}" no desea trabajar desde {{from}} hasta {{to}}.
 
-desiredShiftForEmployee: The Employee "{{employee}}" desires to work from {{from}}
-  to {{to}}.
+desiredShiftForEmployee: El Empleado "{{employee}}" desea trabajar desde {{from}} hasta {{to}}.
 
-totalIndictment: 'Shift Indictment Score: {{score}}'
-penalty: 'Penalty: {{score}}'
-reward: 'Reward: {{score}}'
+totalIndictment: 'Puntuación de Acusación de Turno: {{score}}'
+penalty: 'Penalización: {{score}}'
+reward: 'Recompensa: {{score}}'

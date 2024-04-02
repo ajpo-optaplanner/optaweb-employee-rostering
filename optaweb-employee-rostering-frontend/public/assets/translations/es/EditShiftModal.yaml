@@ -1,14 +1,13 @@
----
 createShift: Crear turno
 editShift: Editar turno
 shiftStart: Inicio del turno
 shiftEnd: Fin del turno
 additionalSkills: Habilidades adicionales
-selectAdditionalSkills: Seleccionar una habilidad adicional ...
-originalEmployee: Original Employee
-none: None
-isPinned: Is Pinned
+selectAdditionalSkills: Seleccionar una habilidad adicional...
+originalEmployee: Empleado Original
+none: Ninguno
+isPinned: Está Anclado
 
-noStartTime: Debe seleccionar una fecha de inicio del turno
-noEndTime: Debe seleccionar una fecha de finalización del turno
-belowMinDuration: El turno debe tener una duración de al menos 30 minutos
+noStartTime: Debe seleccionar una hora de inicio para el turno
+noEndTime: Debe seleccionar una hora de finalización para el turno
+belowMinDuration: El turno debe tener una duración mínima de 30 minutos

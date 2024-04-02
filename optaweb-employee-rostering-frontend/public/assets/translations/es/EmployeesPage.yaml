@@ -1,16 +1,15 @@
----
-skillProficiencies: Skill Proficiencies
-selectAContract: Select a contract...
-selectSkillProficiencies: Select skill proficiencies...
+skillProficiencies: Competencias de Habilidad
+selectAContract: Selecciona un contrato...
+selectSkillProficiencies: Selecciona competencias de habilidad...
 color: Color
-shortId: Short Id
+shortId: ID Corto
 noContracts:
-  <0>There are no Contracts</0>
+  <0>No hay Contratos</0>
   <1>
-  The current tenant have no Contracts. You need at least one Contract to add Employees.
-  You can add a Contract in the "Contracts" page.
+  El inquilino actual no tiene Contratos. Necesitas al menos un Contrato para agregar Empleados.
+  Puedes agregar un Contrato en la página de "Contratos".
   </1>
-  <2>Go to the Contracts page</2>
+  <2>Ir a la página de Contratos</2>
 
-employeeEmptyNameError: Employee cannot have an empty name
-employeeNameAlreadyTakenError: Name ({{name}}) is already taken by another employee
+employeeEmptyNameError: El empleado no puede tener un nombre vacío
+employeeNameAlreadyTakenError: El nombre ({{name}}) ya está siendo utilizado por otro empleado

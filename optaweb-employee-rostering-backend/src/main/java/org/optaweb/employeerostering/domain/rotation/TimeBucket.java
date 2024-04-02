@@ -49,8 +49,8 @@ public class TimeBucket extends AbstractPersistable {
                     @JoinColumn(name = "day_id",
                             referencedColumnName = "id",
                             foreignKey = @ForeignKey(name = "DAY_FK",
-                                    foreignKeyDefinition = "FOREIGN KEY (day_id) references public.time_bucket (id)" +
-                                            " ON UPDATE NO ACTION ON DELETE CASCADE"))
+                                    foreignKeyDefinition = "FOREIGN KEY (day_id) REFERENCES Time_bucket (id)" +
+                                            " ON DELETE CASCADE"))
             })
     private Set<DayOfWeek> repeatOnDaySet;
 
@@ -60,8 +60,8 @@ public class TimeBucket extends AbstractPersistable {
                     @JoinColumn(name = "seat_id",
                             referencedColumnName = "id",
                             foreignKey = @ForeignKey(name = "SEAT_FK",
-                                    foreignKeyDefinition = "FOREIGN KEY (seat_id) references public.time_bucket (id)" +
-                                            " ON UPDATE NO ACTION ON DELETE CASCADE"))
+                                    foreignKeyDefinition = "FOREIGN KEY (seat_id) REFERENCES Time_bucket (id)" +
+                                            " ON DELETE CASCADE"))
             })
     private List<Seat> seatList;
 
